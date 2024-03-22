@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Green Grah</string>
+    <string name="Trans">Open<a href="https://greensyourcolour.com/blogs/blog/15-ways-to-make-your-commute-more-eco-friendly">Link</a></string>
+    <string name="food">Open2<a href="https://www.focusforhealth.org/diet-for-a-healthy-planet-pro-planet-is-pro-health/">Link2</a></string>
+    <string name="Fuel">Open2<a href="https://www.cnet.com/pictures/here-are-23-ways-to-save-on-your-electric-bills-right-now/">Link3</a></string>
+    <string name="recycle">Open2<a href="https://www.glassnow.com/blog/is-glass-packaging-actually-more-sustainable/#:~:text=While%20recycling%20does%20have%20its,excellent%20for%20the%20recycling%20process.">Link4</a></string>
+    <string name="title_activity_life">life</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
